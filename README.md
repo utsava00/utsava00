@@ -26,7 +26,7 @@ With over 2 years of experience as a specialized Technical Animation/3D Rigging 
 [March 2022 - December 2023] 3D Rigging Artist<br><br>
 
 <a href="https://edscope.in/" target="_blank">
-    <img src="https://github.com/utsava00/utsava00/blob/main/Work/edscope.png?raw=true" title="Edscope" alt="Logo of Edscope" width="150" height="30" />
+    <img src="https://github.com/utsava00/utsava00/blob/main/Work/edscope.png?raw=true" title="Edscope" alt="Logo of Edscope" width="120" height="30" />
 </a><br>
 [November 2021 - February 2022] 3D Generalist<br>
 
