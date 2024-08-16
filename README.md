@@ -3,7 +3,7 @@
 <!--
 **utsava00/utsava00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-With over 2 years of experience as a specialized Technical Animation/3D Rigging Artist, I excel in creating custom rigs for characters, creatures, and props, along with developing tools for the pipeline using Autodesk Maya, 3DS Max, Unreal Engine, and Python. My background as a 3D Generalist equips me with a comprehensive understanding of various aspects such as Modeling, Texturing, Rigging, Simulation, Lighting, and Compositing, enabling me to contribute effectively across different stages of the pipeline. I have worked on two AAA titles, "Star Wars Jedi: Survivor" and "Suicide Squad: Kill the Justice League." Task management and continuous skill development are key aspects of my approach.
+With over 3 years of experience as a specialized Technical Animation/3D Rigging Artist, I excel in creating custom rigs for characters, creatures, and props, along with developing tools for the pipeline using Autodesk Maya, 3DS Max, Unreal Engine, and Python. My background as a 3D Generalist equips me with a comprehensive understanding of various aspects such as Modeling, Texturing, Rigging, Simulation, Lighting, and Compositing, enabling me to contribute effectively across different stages of the pipeline. I have worked on two AAA titles, "Star Wars Jedi: Survivor" and "Suicide Squad: Kill the Justice League." Task management and continuous skill development are key aspects of my approach.
 
 <!-- Add images and URLs as per the requirement -->
 
