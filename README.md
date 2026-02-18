@@ -1,34 +1,44 @@
 ## ![Waving hand gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey everyone, I'm Utsava
 
-<!--
-**utsava00/utsava00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I am a Technical Animator and Rigging Artist with 4+ years of experience in AAA game development, shipping titles like Star Wars Jedi: Survivor and Suicide Squad: Kill the Justice League. My core expertise lies in bridging the gap between art and engineering by building scalable real-time pipelines and automating complex workflows.
 
-With over 3 years of experience as a specialized Technical Animation/3D Rigging Artist, I excel in creating custom rigs for characters, creatures, and props, along with developing tools for the pipeline using Autodesk Maya, 3DS Max, Unreal Engine, and Python. My background as a 3D Generalist equips me with a comprehensive understanding of various aspects such as Modeling, Texturing, Rigging, Simulation, Lighting, and Compositing, enabling me to contribute effectively across different stages of the pipeline. I have worked on two AAA titles, "Star Wars Jedi: Survivor" and "Suicide Squad: Kill the Justice League." Task management and continuous skill development are key aspects of my approach.
-
-<!-- Add images and URLs as per the requirement -->
+Currently, I am leading the tech animation pipeline for E-Cricket at LightFury Games. My focus is on developing Python tools to support artists and animators, ensuring seamless engine integration, and architecting a live-ops scalable modular configuration system for character customization that maintains high fidelity without sacrificing framerates.
 
 ### Productions:
 
 <p>
+    <a href="https://www.youtube.com/watch?v=rpTPkGTUbmY" target="_blank">
+        <img src="https://github.com/utsava00/utsava00/blob/main/Productions/ecricket.jpg?raw=true" title="E-Cricket" alt="Poster of E-Cricket" width="240" height="135" />
+    </a>
     <a href="https://www.youtube.com/watch?v=3QHZxzTPsco" target="_blank">
         <img src="https://github.com/utsava00/utsava00/blob/main/Productions/suicide_squad_kill_the_justice_league.jpg?raw=true" title="Suicide Squad: Kill the Justice League" alt="Poster of Suicide Squad: Kill the Justice League video game" width="240" height="135" />
     </a>
-        <a href="https://vimeo.com/976204103?share=copy" target="_blank">
+    <a href="https://vimeo.com/976204103?share=copy" target="_blank">
         <img src="https://github.com/utsava00/utsava00/blob/main/Productions/star_wars_jedi_survivor.jpg?raw=true" title="Star Wars Jedi: Survivor" alt="Poster of Star Wars Jedi: Survivor video game" width="240" height="135" />
     </a>
 </p>
 
 ### Work:
 
+<a href="https://www.lightfurygames.com/" target="_blank">
+    <img src="https://github.com/utsava00/utsava00/blob/main/Work/lfg.png?raw=true" title="LightFury Games" alt="Logo of LightFury Games" height="30" />
+</a><br>
+[Sep 2024 - Present] Technical Animator I<br><br>
+
+<a href="https://www.headhoppers.com/" target="_blank">
+    <img src="https://github.com/utsava00/utsava00/blob/main/Work/headhoppers.png?raw=true" title="HeadHoppers Studio" alt="Logo of HeadHoppers Studio" height="30" />
+</a><br>
+[Jan 2024 - Sep 2024] Freelance Rigging TD<br><br>
+
 <a href="https://www.littleredzombies.com/" target="_blank">
     <img src="https://github.com/utsava00/utsava00/blob/main/Work/lrz.png?raw=true" title="Little Red Zombies Studios Pvt Ltd" alt="Logo of Little Red Zombies Studios" width="70" height="30" />
 </a><br>
-[March 2022 - December 2023] 3D Rigging Artist<br><br>
+[Mar 2022 - Dec 2023] 3D Rigging Artist<br><br>
 
 <a href="https://edscope.in/" target="_blank">
     <img src="https://github.com/utsava00/utsava00/blob/main/Work/edscope.png?raw=true" title="Edscope" alt="Logo of Edscope" width="120" height="30" />
 </a><br>
-[November 2021 - February 2022] 3D Generalist<br>
+[Nov 2021 - Feb 2022] 3D Generalist<br>
 
 ### Find me around the web:
 
@@ -46,12 +56,12 @@ With over 3 years of experience as a specialized Technical Animation/3D Rigging 
 
 ### Skills:
 
-- Rigging
-- Retargeting - HIK / UE4/5
-- Simulation
-- Engine Integration
-- Tool Development
-- Topology Review
+- **Core:** Rigging & Skinning, Anatomy for Deformation, Topology Optimization
+- **Engine:** Animation Blueprints, State Machines, Blendspaces, Motion Matching
+- **Automation:** Python Tool Development, Pipeline Optimization, Data Structures
+- **Simulation:** Character Simulation (Cloth/Hair), Physics Asset Setup
+- **Generalist:** Modeling, Texturing, Lighting, Rendering
+- **Pipeline:** Asset Management & Integration, Version Control (Perforce/Git)
 
 ### Languages and Tools:
 
@@ -60,6 +70,7 @@ With over 3 years of experience as a specialized Technical Animation/3D Rigging 
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/python.png?raw=true" title="Python programming language" alt="Logo of Python programming language" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/qt.png?raw=true" title="Qt application development framework" alt="Logo of Qt" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/mysql.png?raw=true" title="MySQL database management system" alt="Logo of MySQL" height="40" />
+    <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/perforce.png?raw=true" title="Perforce" alt="Logo of Perforce" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/git.png?raw=true" title="Git version control system" alt="Logo of Git" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/github.png?raw=true" title="GitHub" alt="Logo of GitHub" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/linux.png?raw=true" title="Linux OS" alt="Logo of Linux OS" height="40" />
@@ -69,6 +80,7 @@ With over 3 years of experience as a specialized Technical Animation/3D Rigging 
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/maya.png?raw=true" title="Autodesk Maya" alt="Logo of Autodesk Maya" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/max.png?raw=true" title="Autodesk 3ds Max" alt="Logo of Autodesk 3ds Max" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/arnold.png?raw=true" title="Autodesk Arnold" alt="Logo of Autodesk Arnold" height="40" />
+    <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/motionbuilder.png?raw=true" title="Autodesk MotionBuilder" alt="Logo of Autodesk MotionBuilder" height="40" />
     <img src="https://raw.githubusercontent.com/utsava00/utsava00/main/Languages_And_Tools/unreal_engine.png?raw=true" title="Unreal Engine" alt="Logo of Unreal Engine" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/unity.jpeg?raw=true" title="Unity" alt="Logo of Unity" height="40" />
     <img src="https://github.com/utsava00/utsava00/blob/main/Languages_And_Tools/substance_painter.png?raw=true" title="Substance 3D Painter" alt="Logo of Substance 3D Painter" height="40" />
